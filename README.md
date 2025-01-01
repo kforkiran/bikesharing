@@ -9,7 +9,10 @@ This assignment is a programming assignment wherein you have to build a multiple
 Built and trained a model to find the variables which are significant to the demand for shared bikes with the available independent variables.
 
 ## Technologies Used:
- Python
- seaborn
- matplotlib
- Pandas
+ Python 
+ seaborn 
+ matplotlib 
+ Pandas 
+
+## Acknowledgements
+Model building was done for bike sharing analysis
